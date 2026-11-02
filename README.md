@@ -4,7 +4,7 @@ CyberForge is a self-paced cybersecurity learning reader built from the Sri Lank
 
 ## Open the academy
 
-Open [`index.html`](./index.html) locally or visit the hosted GitHub Pages site.
+Open [`index.html`](./index.html) locally or visit the hosted [CyberForge academy](https://sithum5433.github.io/cyberforge-ethical-hacking-academy/).
 
 ## Included
 
@@ -17,4 +17,3 @@ Open [`index.html`](./index.html) locally or visit the hosted GitHub Pages site.
 ## Responsible use
 
 Use the material only on systems you own or have explicit permission to test. Follow applicable law, responsible disclosure rules, and your organization's security policies.
-
